@@ -1,0 +1,10 @@
+mistralai 
+langchain-mistralai
+faiss-cpu
+langchain-community
+beautifulsoup4 
+requests 
+unstructured
+streamlit 
+tiktoken
+tenacity
